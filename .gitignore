@@ -1,0 +1,9 @@
+__pycache__/
+*.pyc
+.venv/
+venv/
+.DS_Store
+.streamlit/secrets.toml
+# 설문 원본 응답은 올리지 않음
+*응답*.csv
+*수요 조사*.csv
